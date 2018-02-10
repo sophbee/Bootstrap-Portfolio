@@ -1,0 +1,145 @@
+body {
+    font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;
+    background: url("../images/seigaiha.png");
+    font-size: 18px;
+    line-height: 30px;
+    color: #777777;
+}
+
+h1,
+h3 {
+    font-weight: bolder;
+    font-size: 30px;
+}
+
+#myportfolio h3 {
+    font-family: 'Georgia', 'Times New Roman', Times, serif;
+    background-color: #4aaaa5;
+    color: #ffffff;
+    text-align: center;
+    font-weight: normal;
+    font-size: 20px;
+    padding: 15px;
+    margin: 0;
+    position: absolute;
+    bottom: 10px;
+    width: 100%;
+}
+
+#myportfolio .caption {
+    padding: 0;
+
+}
+
+.thumbnail {
+    padding: 0;
+    margin: 10px;
+    position: relative;
+}
+
+#profileimage {
+    margin-right: 20px;
+    margin-bottom: 10px;
+}
+
+.page-header h1 {
+    margin-bottom: 20px;
+}
+
+.navbar-brand {
+    background-color: #4aaaa5;
+    font-family: 'Georgia', Times, 'Times New Roman', serif;
+    height: 100px;
+    line-height: 70px;
+    padding: 15px 25px;
+    text-align: center;
+}
+
+.page-header {
+    color: #4aaaa5;
+    font-family: 'Georgia', Times, 'Times New Roman', serif;
+    border-bottom: 2px solid #cccccc;
+}
+
+.col-sm-8 {
+    border: 1px solid #dddddd;
+    padding: 0 30px 30px;
+    background-color: #ffffff;
+}
+
+#masthead {
+    color: #ffffff;
+    font-size: 30px;
+    font-weight: bolder;
+}
+
+#masthead:hover {
+    background-color: #4aaaa5;
+}
+
+#panelmasthead {
+    background-color: #ffffff;
+    border-bottom: 0;
+}
+
+.panel-title {
+    font-size: 20px;
+    padding: 10px;
+    color: #4aaaa5;
+    text-align: center;
+    font-family: 'Georgia', Times, 'Times New Roman', serif;
+    border-bottom: 1px solid #cccccc;
+}
+
+.panel-body img {
+    max-width: 100%;
+}
+
+#topnavbar {
+    border-bottom: 2px solid #cccccc;
+    margin-bottom: 40px;
+}
+
+.navbar-right {
+    margin: 40px;
+    font-size: 16px;
+}
+
+.navbar-right > li {
+    border-left: 1px solid #777777;
+}
+
+.navbar-right > li > a {
+    padding: 0 20px;
+}
+
+.navbar-right > li:first-of-type {
+    border-left: 0;
+}
+
+.pushy {
+    min-height: calc(100vh - 130px);
+}
+
+.btn-primary {
+    background-color: #4aaaa5;
+}
+
+.btn-primary:hover {
+    background-color: #4aaaa5;
+}
+
+.footer {
+    border-top: 10px solid #4aaaa5;
+    width: 100%;
+    background-color: #666666;
+    margin-top: 30px;
+    height: 100px;
+}
+
+#footertext {
+    text-align: center;
+    color: #cccccc;
+    margin-top: 30px;
+    font-size: 12px;
+}
